@@ -163,3 +163,14 @@ a{
   text-decoration:none;
   color:#0f4d0f;
 }
+.dropdown-content p{
+  color:red;
+}
+#cart{
+  color:white;
+  Background-color:black;
+}
+#cart:hover{
+  color:white;
+  Background-color:blue;
+}
